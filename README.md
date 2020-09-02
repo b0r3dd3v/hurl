@@ -1,3 +1,6 @@
+[Note]
+Userscript has normal linux identation - microhub doesn't display it and M$ won't either(mah guess). Feel free 2 prettier(beautify) it or do some enters after semicolons and ur done.
+
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
 It's CLI looks the same 2 user, tho I have extracted clap stuff into yaml document, because 2 much shit was in the main module.
