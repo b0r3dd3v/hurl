@@ -1,0 +1,15 @@
+[package]
+name = "scraptor"
+version = "6.6.6"
+authors = ["Chronicles of дудосинг club <mem.transmute@localhost>"]
+edition = "2018"
+description = "scrapes hair off MDs admins scalp"
+license = "WTFPL"
+readme = "README.md"
+
+[dependencies]
+clap = { version = "2.33.3", features = ["yaml"] }
+reqwest = { version = "0.10.8", features = ["blocking", "json", "brotli", "cookies", "socks"] }
+serde = { version = "^1.0", features = ["derive"] }
+mime = "0.3.16"
+dynfmt = { version = "0.1.4", git = "https://github.com/jan-auer/dynfmt", features = ["curly"]}
