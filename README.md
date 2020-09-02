@@ -1,5 +1,6 @@
 [Note]
 Userscript has normal linux identation - microhub doesn't display it and M$ won't either(mah guess). Feel free 2 prettier(beautify) it or do some enters after semicolons and ur done.
+Hmm, zsh/ion looks good only in Raw - just remember 2 write scraptor stuff after the shell got u on newline(zsh on windows?). On Linux everything is going 2b okay.
 
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
