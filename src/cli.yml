@@ -1,0 +1,30 @@
+name: scraptor
+version: 1.3.37
+author: Holo <holo@cock.li>
+about: This not a place for you. Get out of here, stalker. And scrape ur 800+ follows with this 2l.
+args:
+    - id:
+        required: true
+        help: Id url part 4 API
+        index: 1
+    - lang:
+        short: l
+        value_name: LANGUAGE
+        help: gb, cn, ru. Ни в чём себе не отказывай.
+        takes_value: true
+    - chapter:
+        short: c
+        help: Single chapter mode.
+    - volume:
+        short: e
+        takes_value: true
+        value_name: VOLUME
+        help: Dl entire volume.
+    - rep:
+       short: r
+       takes_value: true
+       help: Everything rep
+    - sea:
+       short: s
+       takes_value: true
+       help: Reps love ocean.
