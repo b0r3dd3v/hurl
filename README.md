@@ -2,6 +2,10 @@
 Userscript has normal linux identation - microhub doesn't display it and M$ won't either(mah guess). Feel free 2 prettier(beautify) it or do some enters after semicolons and ur done.
 Hmm, zsh/ion looks good only in Raw - just remember 2 write scraptor stuff after the shell got u on newline(zsh on windows?). On Linux everything is going 2b okay.
 
+[Shiroi Note]
+As of 00:10:1337 Sun XX:XX:XXXY, servo is ded. Whether this is Ded not3 4 mangadex, is currently unknown, but I am expecting some mound fuuury in their Reddit and empty response 4m admin-scum, blah shikataganai, smb is hucking elections again.
+Gambate, admin-scum, this night and every night is going 2b tall and hard 4u, if ur not going 2 keep with a single node 256k MS-DD0S.
+
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
 It's CLI looks the same 2 user, tho I have extracted clap stuff into yaml document, because 2 much shit was in the main module.
