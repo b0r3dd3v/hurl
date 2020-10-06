@@ -4,7 +4,7 @@ Hmm, zsh/ion looks good only in Raw - just remember 2 write scraptor stuff after
 
 [Shiroi Note]
 As of 00:10:1337 Sun XX:XX:XXXY, servo is ded. Whether this is Ded not3 4 mangadex, is currently unknown, but I am expecting some mound fuuury in their Reddit and empty response 4m admin-scum, blah shikataganai, smb is hucking elections again.
-Gambate, admin-scum, this night and every night is going 2b tall and hard 4u, if ur not going 2 keep with a single node 256k MS-DD0S.
+Спокойной ночи, сволонтёры.
 
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
