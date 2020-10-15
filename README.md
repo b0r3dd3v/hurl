@@ -5,6 +5,10 @@ Hmm, zsh/ion looks good only in Raw - just remember 2 write scraptor stuff after
 [Shameless Plug]
 Now, shodan has got an [s]AWS bucket[/s], nah, better - HTTP/3 client EXTENSION. ОХЪБАТЬ, это же EXTENSION. Когда ты себе его поставишь, [s]все тёлки будут на тебя кидатся[/s], то зайдёшь в хату и кликнешь на Аннелидов в баре - и увидишь, что теперь декс прячется за дудосгардом. Так что теперь  распределённой атаки типа отказ в обслуживании, то бишь 1го 1M говномёта, может не хва. Лучше устройте им бомбач на Постале или ещё где-нибудь. А когда серв напищет Вам то же, что и Аннелидохёрдеру, отложите хорошее "когда в квартире будет тепло" у них в Реднеке. Всегда умилялся, когда эти анальные жертвы сетуют на вселенскую несправедливость, мегабитным стримом обрушившуюся на их великий и могучий пидарасник.
 
+[INSTALL]
+cargo install scraptor --git https://github.com/b0r3dd3v/scraptor
+Шоб було, а то я не могу позволить устаревшему коду быть ореховей нас :P .
+
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
 It's CLI looks the same 2 user, tho I have extracted clap stuff into yaml document, because 2 much shit was in the main module.
