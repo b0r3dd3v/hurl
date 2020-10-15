@@ -2,9 +2,8 @@
 Userscript has normal linux identation - microhub doesn't display it and M$ won't either(mah guess). Feel free 2 prettier(beautify) it or do some enters after semicolons and ur done.
 Hmm, zsh/ion looks good only in Raw - just remember 2 write scraptor stuff after the shell got u on newline(zsh on windows?). On Linux everything is going 2b okay.
 
-[Shiroi Note]
-As of 00:10:1337 Sun XX:XX:XXXY, servo is ded. Whether this is Ded not3 4 mangadex, is currently unknown, but I am expecting some mound fuuury in their Reddit and empty response 4m admin-scum, blah shikataganai, smb is hucking elections again.
-Спокойной ночи, сволонтёры.
+[Shameless Plug]
+Now, shodan has got an [s]AWS bucket[/s], nah, better - HTTP/3 client EXTENSION. ОХЪБАТЬ, это же EXTENSION. Когда ты себе его поставишь, [s]все тёлки будут на тебя кидатся[/s], то зайдёшь в хату и кликнешь на Аннелидов в баре - и увидишь, что теперь декс прячется за дудосгардом. Так что теперь  распределённой атаки типа отказ в обслуживании, то бишь 1го 1M говномёта, может не хва. Лучше устройте им бомбач на Постале или ещё где-нибудь. А когда серв напищет Вам то же, что и Аннелидохёрдеру, отложите хорошее "когда в квартире будет тепло" у них в Реднеке. Всегда умилялся, когда эти анальные жертвы сетуют на вселенскую несправедливость, мегабитным стримом обрушившуюся на их великий и могучий пидарасник.
 
 [Update]
 Now it finally works, so it is time 2 share some sickrets about using scraptor.
