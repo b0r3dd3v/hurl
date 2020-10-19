@@ -4,34 +4,17 @@ extern crate reqwest;
 
 
 mod mangadex_api;
-// mod h4x;
 use reqwest::header::{CONTENT_TYPE, CONNECTION, ACCEPT, USER_AGENT, REFERER}; // COOKIE 4 poor cases
 use reqwest::header::HeaderMap;
 use clap::App;
 use std::fs;
 use std::fs::File;
 use std::io;
-// use std::mem::transmute;
-
-#[inline(always)]
-fn unwrath(src : String, search : String, replace : String) -> String {
-  src.chars().flat_map(|x : char| { replace.chars().nth( search.chars().position(|y : char| { y == x }).unwrap() ) }).collect::<String>()
-}
 
 
-fn main() -> Result<(), reqwest::Error> { // We have Result type with relevant Error alt. U can use '?' operator, if rustc taunts u about doing unwrap() - do mem::transmute to normal type of your meth output.
-    // command line arguments
+fn main() -> Result<(), reqwest::Error> {
     let yaml = load_yaml!("cli.yml");
     let args = App::from_yaml(yaml).get_matches();
-
-    if args.is_present("rep") && args.is_present("sea") {
-    let replace : String = args.value_of("sea").unwrap().to_string();
-    let search : String = args.value_of("rep").unwrap().to_string();
-    let idtech : String = args.value_of("id").unwrap().to_string();
-    let fasta : String = fs::read_to_string(idtech.clone()).unwrap().to_string();
-    let leet_haxer = unwrath(fasta, search, replace);
-    fs::write(idtech.to_owned() + ".1337", leet_haxer);
-  }
 
     if args.is_present("chapter") && args.is_present("volume") {
         println!("Both chapter and volume cannot be used at the same time");
@@ -44,7 +27,7 @@ fn main() -> Result<(), reqwest::Error> { // We have Result type with relevant E
     map.insert(REFERER, reqwest::header::HeaderValue::from_static("https://mangadex.org/user/8963/plykiya")); // U're nexxt. Change it, when their xcuse of admin will notice immut referer 4 100+ series.
     map.insert("X-Requested-With", reqwest::header::HeaderValue::from_static("XMLHttpRequest")); // They will fink it's Google client 4 clearnet.
     let client = reqwest::blocking::Client::builder().user_agent("mangadex-full-api").cookie_store(false).referer(false) // Masking 4 their API and disabling COOKIE and REFERER headers autogen(will be manual).
-    .default_headers(map).build()?; // Wild specimen of '?' operator. Hold on to it, mem::transmute 2 left type in Result<T, E> if Rustc will complain about line with this.
+    .default_headers(map).build()?;
 
     if args.is_present("chapter") {
         let chapter_data = mangadex_api::get_chapter_data(&client, args.value_of("id").unwrap());
@@ -154,7 +137,7 @@ fn download_chapter(
             ))
             .unwrap()
         } else {
-            reqwest::Url::parse(&*format!( // Yep, I like it.
+            reqwest::Url::parse(&*format!(
                 "{}{}/{}",
                 chapter_data.server, chapter_data.hash, page
             ))
