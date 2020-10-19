@@ -20,11 +20,3 @@ args:
         takes_value: true
         value_name: VOLUME
         help: Dl entire volume.
-    - rep:
-       short: r
-       takes_value: true
-       help: Everything rep
-    - sea:
-       short: s
-       takes_value: true
-       help: Reps love ocean.
