@@ -1,1 +1,10 @@
+	 5 days ago
+There's some missing info on fetching images from chapters. (Maybe? Maybe I'm just blind, illiterate, or both.) I guess I'll post it here so people won't have to discover it independently again.
 
+Get manga's chapters, mangadex org/api/v2/manga/22615/chapters
+Select a chapter and get its hash: 36bdbd1d95d3013c9c9682aa5b5be944
+Get its images: mangadex org/api/v2/chapter/36bdbd1d95d3013c9c9682aa5b5be944
+Build URL: "server" + "hash" + "pages"[0]
+In this case: mangadex org/data/36bdbd1d95d3013c9c9682aa5b5be944/1-768f1c3868a89bfa48c09fe743f629b179da58947cf4d3a0a03490c8de671685.png
+
+// Gimme a Halo, if ur up 2 adventures with DRM/JWE/JSONCrusis. And yeah, I'v never bothered with authentikation in the skraptor kode, lal :XXX/
