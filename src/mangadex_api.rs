@@ -57,3 +57,5 @@ pub fn get_chapter_data(client: &reqwest::blocking::Client, chapter: &str) -> Ch
         .expect("something went wrong with json parsing");
     json
 }
+
+// Это был приличный код. Помянем занудавай.
