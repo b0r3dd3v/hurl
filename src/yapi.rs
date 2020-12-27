@@ -196,15 +196,37 @@ pub fn get_chapter_data(client: &reqwest::blocking::Client, chapter: &str) -> Ch
 }
 
 // Прошу ненавидеть и бояться.
-unsafe fn roll_and_cover()
+type Tusk = Vec<i64>; // больше StringBuilder не примет.
+type Booing = [i128 ; 0x40000 ]; // 4M / 16b = 256k = 65536 x 4. 22: Trait with tuples. Assembly kernels 4 tracing.
 
-unsafe fn convert_tags()
+unsafe impl Booing for Booing { // Бой с хренью.
+    #[inline(always)]
+    fn trace_2(stride1: Booing, stride2: Booing) {} // VLRU load, trace 2 strides with 32/2 cache wo xlanes.
+    #[inline(always)]
+    fn trace_4(stride1: Booing, stride2: Booing, stride3: Booing, stride4: Booing) {} // 32/4 cache instances.
+    #[inline(always)]
+    fn trace_8(stride1: Booing, stride2: Booing, stride3: Booing, stride4: Booing, stride5: Booing, stride6: Booing, stride7: Booing, stride8: Booing) {} // 32/8.
+    // Без генри, статическая раздача приключений.
+}
+
+// Generate likelies on return(4M array), saturate state bitmap until ur done.
+// Write retries 2 BufSlice 4 images(use their size limits 4 BufSlice limits) & write() files on caching(write state 2 Booing & Tusk likelies, off-thread disk writes).
 
 #[inline(always)]
-unsafe fn chuck_yapi_manga_json() // B4 generating state clone.
+fn try_json_manga_scrape(q: Tusk) {} // 
 
 #[inline(always)]
-unsafe fn chuck_yapi_chapter_json()
+fn try_json_chapter_scrape(q: Tusk) //
 
-// JSON теперь придётся вытягивать у CDNа из задницы. Прокси нужен, чтобы хуелионом онанимных линков(без печенек + генератор паранойи) насытить 1024k-битный канал.
-// Ныжен модуль для хостового ARQ, птшо поди разберись, где серву моча в голову ударила.
+#[inline(always)]
+fn try_cover_scrape() {} //
+
+fn try_chapter_scrape() {} //
+
+
+// Booing Yatsude.
+fn intersect_tags() {} //
+
+fn intersect_tusk_likelies() {} //
+
+// No mo reasons 4 single client(multithreaded design with many socket collections). Need hel of bots.
