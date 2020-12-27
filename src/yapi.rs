@@ -13,6 +13,10 @@ use std::collections::HashMap;
 let manga_scrape = try_json_manga_scrape(); // while loops 4 ~reliability, multipools 4 reqwest with proxies. Tries are run until Booing resulting stride is saturated(check number of zeroes wo constraining ranges).
 let (ru_cache, cn_cache, en_cache) = alternate_lang(manga_scrape);
 
+// Cache(centralized, polyfile collection - 1 index per file, load binary into memory wo pointers, with C layout).
+// BufSlice 4 images, no cache 4 these, flush chapter crap 2 disk. No chapter JSON either(no kal/bytes -> retry whole & dl fresh).
+
+
 // Left it 4 comparison. Iterating over JSON fields will be hard wo rewrite.
 
 #[derive(Debug, Deserialize)]
