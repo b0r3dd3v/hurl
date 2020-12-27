@@ -9,6 +9,10 @@ use std::collections::HashMap;
 // ChapterData: Hash, language(ext), pages[_array], server. volume(ext)
 // MangaData: mainCover, tags(index mangas, dl mainCovers).
 
+// Language has no likelies - steer manga JSON(after sorting & enum). Into lang caches.
+let manga_scrape = try_json_manga_scrape(); // while loops 4 ~reliability, multipools 4 reqwest with proxies. Tries are run until Booing resulting stride is saturated(check number of zeroes wo constraining ranges).
+let (ru_cache, cn_cache, en_cache) = alternate_lang(manga_scrape);
+
 // Left it 4 comparison. Iterating over JSON fields will be hard wo rewrite.
 
 #[derive(Debug, Deserialize)]
@@ -198,6 +202,7 @@ pub fn get_chapter_data(client: &reqwest::blocking::Client, chapter: &str) -> Ch
 // Прошу ненавидеть и бояться.
 type Tusk = Vec<i64>; // больше StringBuilder не примет.
 type Booing = [i128 ; 0x40000 ]; // 4M / 16b = 256k = 65536 x 4. 22: Trait with tuples. Assembly kernels 4 tracing.
+type Bitmap = [i128 ; 0x40000];  // Convertible pools.
 
 unsafe impl Booing for Booing { // Бой с хренью.
     #[inline(always)]
@@ -207,6 +212,11 @@ unsafe impl Booing for Booing { // Бой с хренью.
     #[inline(always)]
     fn trace_8(stride1: Booing, stride2: Booing, stride3: Booing, stride4: Booing, stride5: Booing, stride6: Booing, stride7: Booing, stride8: Booing) {} // 32/8.
     // Без генри, статическая раздача приключений.
+}
+
+unsafe impl Bitmap for Bitmap {
+    fn ahobaka() -> i64 // Easy conversion 2 usize for BufSlices with usize arith(no uchar cz no JSON).
+    { // NOT TMP; TEST TMP, TMP; IFNZ INC CTR. // CTR = 0, prefetch next, fetch VLRU, tile loop.
 }
 
 // Generate likelies on return(4M array), saturate state bitmap until ur done.
