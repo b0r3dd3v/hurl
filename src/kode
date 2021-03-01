@@ -1,0 +1,19 @@
+struct MangadexApiv2;
+
+impl MangadexApiv2 {
+    const MSG: &'static str = "massage";
+    const LOCATION: &'static str = "Shanghai, China"; // Target located... Чтож, оптимус - пирдётся нам с тобой пользоваться дрыг дрыгом.
+    const PROFILE: &'static str = "Python backend engineer"; // пистон для америкосов
+    const EXPERIENCE: &'static str = "5+ years"; // Ага. XPMom.
+}
+
+struct Skills; // Приготовились, да?
+
+impl Skills {
+    const LANGUAGES: [&'static str; 5] = ["Python", "Rust", "JavaScript", "C/C++", "Kotlin/Java"]; // Лучше чем китайский, ды.
+    const OPERATION_SYSTEMS: [&'static str; 3] = ["macOS", "Linux", "Windows"]; // Vidya Optimus.
+    const STORAGES: [&'static str; 5] = ["PostgreSQL", "Elasticsearch", "MongoDB", "Redis", "MySQL"]; // а в свободное время я администрирую pgsql.
+    const MESSAGE_QUEUES: [&'static str; 3] = ["Kafka", "RocketMQ", "RabbitMQ"]; 
+    const WEB_FRAMEWORKS: [&'static str; 4] = ["Flask", "Django", "Actix-Web", "Rocket"];
+    const DEVOPS: [&'static str; 3] = ["Docker", "SaltStack", "Kubernetes"];
+}
