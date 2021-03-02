@@ -1,1 +1,1 @@
-Subscribe 4 Reddit premium & enjoy xclusive perks.
+Life Game's is a mess.cz mango is a bitch.
