@@ -1,4 +1,4 @@
 #!/mister/bean
-https://mangadex.org/title/62695/vocaloid-a-book-about-installing-a-catgirl-plugin-and-having-lovey-dovey-sex-with-miku-chan-doujinshi
-[ideas & roadmap]
-Хмм, а когда у крещёных еждународный день педерастов?
+Vocaloid - A Book About Installing a Catgirl Plugin and Having Lovey-Dovey Sex With Miku-chan (Doujinshi)
+А сейчас я расскажу вам как установить плагин WeirdPress для Мику.
+С праздником, Мику11 Ты лучшая // Outcoming 1T of Miku faggotry.
