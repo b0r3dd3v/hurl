@@ -1,3 +1,4 @@
 #!/mister/bean
 https://mangadex.org/title/62695/vocaloid-a-book-about-installing-a-catgirl-plugin-and-having-lovey-dovey-sex-with-miku-chan-doujinshi
-Мляя.. току собирался почитать Solo Playing.
+[ideas & roadmap]
+Хмм, а когда у крещёных еждународный день педерастов?
