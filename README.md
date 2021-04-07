@@ -15,6 +15,7 @@ and passwd 2![sow me ur resolv](https://user-images.githubusercontent.com/447468
 ![miku_philosophy](https://user-images.githubusercontent.com/44746806/113928475-87715580-97f7-11eb-8075-c51a969dc2ba.jpg)
 
 ![в_ж****_бывают_белые_и_синие_полосы](https://user-images.githubusercontent.com/44746806/113929059-42015800-97f8-11eb-8dcb-ef3a8c13575d.jpg)
+![blessings_2_urbit_joints&strategies](https://user-images.githubusercontent.com/44746806/113929466-c48a1780-97f8-11eb-9af6-dca346a9ac7b.jpg)
 
 
 
