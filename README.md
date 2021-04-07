@@ -14,5 +14,8 @@ Soy, 2s this IP bto some moppets dynipv4 subnet![abs(dynamic)](https://user-imag
 mah coq folds me hostage![фу](https://user-images.githubusercontent.com/44746806/113925435-b08fe700-97f3-11eb-8dcb-f8f7b11e9191.jpg)
 
 adblock - dakara, when u grow a big ad, im gonna find u & gonna rm u. :hDD AAD
+sow me ur resolv.conf![hereitis](https://user-images.githubusercontent.com/44746806/113926102-7410bb00-97f4-11eb-9223-51a981a5dcaf.jpg)
+and passwd 2![sow me ur resolv](https://user-images.githubusercontent.com/44746806/113926194-8db20280-97f4-11eb-9471-3ae9f501aba5.jpg)
+
 ![?lux_gut](https://user-images.githubusercontent.com/44746806/113919498-58091b80-97ec-11eb-96cf-dc5fe99a201c.png)
 
