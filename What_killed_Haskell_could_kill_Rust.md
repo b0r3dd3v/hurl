@@ -1,6 +1,5 @@
 _At the beginning of 2030, I found this essay in my archives. From what I know today, I think it was very insightful at the moment of writing. And I feel it should be published because it can teach us, Rust developers, how to prevent that sad story from happening again._
-
----
+:hDD
 Here’s the full, uncensored version with bonus level, which has a bit more information and shark included.
 a sort of response to a piece of Forbes calling for ????????s to delete their ????????????.xxx and ???????.xxx accounts
 ultimate full flex academic spam email machine
