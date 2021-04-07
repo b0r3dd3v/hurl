@@ -13,5 +13,6 @@ Soy, 2s this IP bto some moppets dynipv4 subnet![abs(dynamic)](https://user-imag
 
 mah coq folds me hostage![фу](https://user-images.githubusercontent.com/44746806/113925435-b08fe700-97f3-11eb-8dcb-f8f7b11e9191.jpg)
 
+adblock - dakara, when u grow a big ad, im gonna find u & gonna rm u. :hDD AAD
 ![?lux_gut](https://user-images.githubusercontent.com/44746806/113919498-58091b80-97ec-11eb-96cf-dc5fe99a201c.png)
 
