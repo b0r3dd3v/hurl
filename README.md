@@ -12,6 +12,6 @@ sow me ur resolv.conf![hereitis](https://user-images.githubusercontent.com/44746
 and passwd 2![sow me ur resolv](https://user-images.githubusercontent.com/44746806/113926194-8db20280-97f4-11eb-9471-3ae9f501aba5.jpg)
 
 ![they_made_the_sow_pop](https://user-images.githubusercontent.com/44746806/113928144-0d40d100-97f7-11eb-955f-e1915fa4efdf.jpg)
+![miku_philosophy](https://user-images.githubusercontent.com/44746806/113928475-87715580-97f7-11eb-8075-c51a969dc2ba.jpg)
 
-![?lux_gut](https://user-images.githubusercontent.com/44746806/113919498-58091b80-97ec-11eb-96cf-dc5fe99a201c.png)
 
