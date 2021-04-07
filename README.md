@@ -11,6 +11,7 @@ IoT Edje of the edje![abs(industrial)](https://user-images.githubusercontent.com
 Soy, 2s this IP bto some moppets dynipv4 subnet![abs(dynamic)](https://user-images.githubusercontent.com/44746806/113924909-0fa12c00-97f3-11eb-932e-44e5a498b679.jpg)
 2![mpv-shot0526](https://user-images.githubusercontent.com/44746806/113925159-5c850280-97f3-11eb-87f5-d12501be3284.jpg)wanna hear about asagirigiri 4m Lieks of u
 
+mah coq folds me hostage![фу](https://user-images.githubusercontent.com/44746806/113925435-b08fe700-97f3-11eb-8dcb-f8f7b11e9191.jpg)
 
 ![?lux_gut](https://user-images.githubusercontent.com/44746806/113919498-58091b80-97ec-11eb-96cf-dc5fe99a201c.png)
 
