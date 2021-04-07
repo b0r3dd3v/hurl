@@ -14,4 +14,7 @@ and passwd 2![sow me ur resolv](https://user-images.githubusercontent.com/447468
 ![they_made_the_sow_pop](https://user-images.githubusercontent.com/44746806/113928144-0d40d100-97f7-11eb-955f-e1915fa4efdf.jpg)
 ![miku_philosophy](https://user-images.githubusercontent.com/44746806/113928475-87715580-97f7-11eb-8075-c51a969dc2ba.jpg)
 
+![в_ж****_бывают_белые_и_синие_полосы](https://user-images.githubusercontent.com/44746806/113929059-42015800-97f8-11eb-8dcb-ef3a8c13575d.jpg)
+
+
 
